@@ -1,1 +1,0 @@
-packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"pwo.app"},{"l":"pwo.seq"},{"l":"pwo.utils"}];updateSearchResults();
